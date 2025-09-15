@@ -11,6 +11,7 @@
 - **Zustand** - Store global
 - **Zod** - Validation de schémas
 - **Nuqs** - Gestion des paramètres d'URL
+  **Up-fetch** - Fetching des données
 
 ## Installation
 
