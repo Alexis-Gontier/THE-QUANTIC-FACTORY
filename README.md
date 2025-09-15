@@ -11,7 +11,8 @@
 - **Zustand** - Store global
 - **Zod** - Validation de schémas
 - **Nuqs** - Gestion des paramètres d'URL
-  **Up-fetch** - Fetching des données
+- **Up-fetch** - Fetching des données
+- **t3-oss** - Typage des variables d'env 
 
 ## Installation
 
